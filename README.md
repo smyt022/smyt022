@@ -3,6 +3,7 @@
 I'm a second year computer engineering student at UofT.
 I like to mess around with different stuff, but I'm interested in learning more about machine learning and robotics.
 
+email: tocatsa@gmail.com
 <!--
 **smyt022/smyt022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
