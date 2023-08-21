@@ -1,7 +1,7 @@
 ### Hey all, this is Sam 👋
 
 I'm a second year computer engineering student at UofT.
-I like to mess around with different stuff, but I'm interested in learning more about machine learning and robotics.
+I like to mess around with different stuff, but I'm interested in learning more about web development, machine learning and robotics.
 
 email: tocatsa@gmail.com
 <!--
