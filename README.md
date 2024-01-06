@@ -2,7 +2,6 @@
 
 I'm a second year computer engineering student at UofT.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smyt022&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 email: tocatsa@gmail.com
 <!--
