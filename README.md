@@ -1,7 +1,8 @@
 ### Hey all, this is Samuel Torres 👋
 
 I'm a second year computer engineering student at UofT.
-I like to mess around with different things, but I'm interested in learning more about web development, machine learning and robotics.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 email: tocatsa@gmail.com
 <!--
