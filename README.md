@@ -2,8 +2,6 @@
 
 I'm a second year computer engineering student at UofT.
 
-
-email: tocatsa@gmail.com
 <!--
 **smyt022/smyt022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
