@@ -1,6 +1,6 @@
 ### Hey all, this is Samuel Torres 👋
 
-I'm a second year computer engineering student at UofT.
+I'm a ECE 2T6+PEY at UofT.
 
 <!--
 **smyt022/smyt022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
